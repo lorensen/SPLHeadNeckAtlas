@@ -1,0 +1,12 @@
+Name:  right_clavicle
+Label: 26
+    count: 13927
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 4057.67
+    sigma: 14658.4
+    variance: 2.14868e+08
+    sum: 5.65112e+07
+    region: index(136, 63, 24) size(112, 80, 53)
+    bounding box: (136, 247) (63, 142) (24, 76) 

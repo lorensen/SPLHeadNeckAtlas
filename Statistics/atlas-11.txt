@@ -1,0 +1,12 @@
+Name:  atlas
+Label: 11
+    count: 14785
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 2083.36
+    sigma: 10469.7
+    variance: 1.09614e+08
+    sum: 3.08025e+07
+    region: index(84, 66, 120) size(81, 50, 21)
+    bounding box: (84, 164) (66, 115) (120, 140) 

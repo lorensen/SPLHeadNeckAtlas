@@ -1,0 +1,12 @@
+Name:  left_internal_jugular_vein
+Label: 110
+    count: 6306
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 3272.22
+    sigma: 13784.5
+    variance: 1.90012e+08
+    sum: 2.06346e+07
+    region: index(81, 95, 37) size(19, 25, 101)
+    bounding box: (81, 99) (95, 119) (37, 137) 

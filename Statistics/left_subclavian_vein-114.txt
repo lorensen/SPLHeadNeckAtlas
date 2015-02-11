@@ -1,0 +1,12 @@
+Name:  left_subclavian_vein
+Label: 114
+    count: 13711
+    min: 0
+    max: 65534
+    median: 1638.38
+    mean: 1946.4
+    sigma: 6243.08
+    variance: 3.89761e+07
+    sum: 2.66871e+07
+    region: index(6, 80, 7) size(136, 51, 38)
+    bounding box: (6, 141) (80, 130) (7, 44) 

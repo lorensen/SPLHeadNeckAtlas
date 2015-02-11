@@ -1,0 +1,12 @@
+Name:  right_temporalis_muscle
+Label: 52
+    count: 6077
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 2566.98
+    sigma: 12570.4
+    variance: 1.58014e+08
+    sum: 1.55996e+07
+    region: index(157, 142, 131) size(29, 44, 53)
+    bounding box: (157, 185) (142, 185) (131, 183) 

@@ -1,0 +1,12 @@
+Name:  left_parotid_gland
+Label: 49
+    count: 12039
+    min: 0
+    max: 65535
+    median: 63896.6
+    mean: 53919.7
+    sigma: 24947
+    variance: 6.22355e+08
+    sum: 6.49139e+08
+    region: index(56, 98, 91) size(21, 38, 47)
+    bounding box: (56, 76) (98, 135) (91, 137) 

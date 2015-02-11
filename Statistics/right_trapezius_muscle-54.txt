@@ -1,0 +1,12 @@
+Name:  right_trapezius_muscle
+Label: 54
+    count: 41030
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 2561.12
+    sigma: 12540
+    variance: 1.57252e+08
+    sum: 1.05083e+08
+    region: index(131, 0, 54) size(107, 79, 49)
+    bounding box: (131, 237) (0, 78) (54, 102) 

@@ -1,0 +1,12 @@
+Name:  cervical6
+Label: 16
+    count: 8851
+    min: 1
+    max: 65535
+    median: 1638.38
+    mean: 609.448
+    sigma: 4266.14
+    variance: 1.82e+07
+    sum: 5.39422e+06
+    region: index(94, 45, 67) size(59, 57, 18)
+    bounding box: (94, 152) (45, 101) (67, 84) 

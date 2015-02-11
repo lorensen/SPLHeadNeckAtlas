@@ -1,0 +1,12 @@
+Name:  right_internal_carotid
+Label: 107
+    count: 1392
+    min: 46
+    max: 1137
+    median: 1638.38
+    mean: 328.652
+    sigma: 117.82
+    variance: 13881.5
+    sum: 457484
+    region: index(139, 99, 92) size(18, 22, 51)
+    bounding box: (139, 156) (99, 120) (92, 142) 

@@ -1,0 +1,12 @@
+Name:  brachiocephalic_trunk
+Label: 116
+    count: 1494
+    min: 26
+    max: 990
+    median: 1638.38
+    mean: 338.256
+    sigma: 109.048
+    variance: 11891.4
+    sum: 505355
+    region: index(111, 104, 15) size(18, 21, 8)
+    bounding box: (111, 128) (104, 124) (15, 22) 

@@ -1,0 +1,12 @@
+Name:  left_external_carotid
+Label: 112
+    count: 604
+    min: 20
+    max: 464
+    median: 1638.38
+    mean: 248.742
+    sigma: 129.228
+    variance: 16699.8
+    sum: 150240
+    region: index(93, 103, 93) size(12, 8, 19)
+    bounding box: (93, 104) (103, 110) (93, 111) 

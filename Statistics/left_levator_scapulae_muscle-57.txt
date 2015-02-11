@@ -1,0 +1,12 @@
+Name:  left_levator_scapulae_muscle
+Label: 57
+    count: 8559
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 1995.1
+    sigma: 11085.7
+    variance: 1.22893e+08
+    sum: 1.70761e+07
+    region: index(64, 33, 68) size(27, 53, 25)
+    bounding box: (64, 90) (33, 85) (68, 92) 

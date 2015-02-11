@@ -1,0 +1,12 @@
+Name:  right_common_carotid
+Label: 101
+    count: 5032
+    min: 1
+    max: 65527
+    median: 1638.38
+    mean: 352.21
+    sigma: 1306.57
+    variance: 1.70712e+06
+    sum: 1.77232e+06
+    region: index(114, 98, 23) size(40, 25, 69)
+    bounding box: (114, 153) (98, 122) (23, 91) 

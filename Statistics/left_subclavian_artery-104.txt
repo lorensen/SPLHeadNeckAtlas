@@ -1,0 +1,12 @@
+Name:  left_subclavian_artery
+Label: 104
+    count: 5795
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 3493.06
+    sigma: 14078.4
+    variance: 1.98202e+08
+    sum: 2.02423e+07
+    region: index(6, 77, 20) size(104, 30, 39)
+    bounding box: (6, 109) (77, 106) (20, 58) 

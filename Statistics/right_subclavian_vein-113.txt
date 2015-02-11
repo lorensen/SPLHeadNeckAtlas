@@ -1,0 +1,12 @@
+Name:  right_subclavian_vein
+Label: 113
+    count: 10518
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 6057.17
+    sigma: 18867.3
+    variance: 3.55974e+08
+    sum: 6.37093e+07
+    region: index(131, 80, 17) size(107, 45, 26)
+    bounding box: (131, 237) (80, 124) (17, 42) 

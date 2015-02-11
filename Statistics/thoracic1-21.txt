@@ -1,0 +1,12 @@
+Name:  thoracic1
+Label: 21
+    count: 15505
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 837.592
+    sigma: 6041.77
+    variance: 3.6503e+07
+    sum: 1.29869e+07
+    region: index(84, 25, 44) size(74, 66, 27)
+    bounding box: (84, 157) (25, 90) (44, 70) 

@@ -1,0 +1,12 @@
+Name:  hyoid
+Label: 9
+    count: 1500
+    min: 6
+    max: 65530
+    median: 1638.38
+    mean: 338.259
+    sigma: 1689.4
+    variance: 2.85409e+06
+    sum: 507389
+    region: index(105, 109, 84) size(44, 34, 11)
+    bounding box: (105, 148) (109, 142) (84, 94) 

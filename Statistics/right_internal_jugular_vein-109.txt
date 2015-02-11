@@ -1,0 +1,12 @@
+Name:  right_internal_jugular_vein
+Label: 109
+    count: 15891
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 543.322
+    sigma: 4414.95
+    variance: 1.94917e+07
+    sum: 8.63393e+06
+    region: index(140, 91, 35) size(28, 34, 100)
+    bounding box: (140, 167) (91, 124) (35, 134) 

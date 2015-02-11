@@ -1,0 +1,12 @@
+Name:  left_zygomatic_muscle
+Label: 63
+    count: 1326
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 1339.34
+    sigma: 9080.02
+    variance: 8.24467e+07
+    sum: 1.77597e+06
+    region: index(85, 153, 102) size(14, 14, 20)
+    bounding box: (85, 98) (153, 166) (102, 121) 

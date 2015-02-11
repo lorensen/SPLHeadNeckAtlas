@@ -1,0 +1,12 @@
+Name:  left_clavicle
+Label: 27
+    count: 12067
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 1897.33
+    sigma: 9155.8
+    variance: 8.38286e+07
+    sum: 2.28951e+07
+    region: index(7, 67, 25) size(99, 69, 52)
+    bounding box: (7, 105) (67, 135) (25, 76) 

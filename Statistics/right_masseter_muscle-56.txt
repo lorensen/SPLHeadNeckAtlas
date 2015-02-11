@@ -1,0 +1,12 @@
+Name:  right_masseter_muscle
+Label: 56
+    count: 7234
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 1749.99
+    sigma: 10359.3
+    variance: 1.07316e+08
+    sum: 1.26594e+07
+    region: index(167, 124, 99) size(15, 46, 36)
+    bounding box: (167, 181) (124, 169) (99, 134) 

@@ -1,0 +1,12 @@
+Name:  right_sternocleidomastoideus_muscle
+Label: 62
+    count: 14657
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 3285.54
+    sigma: 14151.7
+    variance: 2.00271e+08
+    sum: 4.81562e+07
+    region: index(127, 88, 36) size(52, 52, 81)
+    bounding box: (127, 178) (88, 139) (36, 116) 

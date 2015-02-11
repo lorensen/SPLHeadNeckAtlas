@@ -1,0 +1,12 @@
+Name:  rib5
+Label: 35
+    count: 6913
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 6965.13
+    sigma: 19666.1
+    variance: 3.86755e+08
+    sum: 4.815e+07
+    region: index(70, 5, 0) size(156, 49, 20)
+    bounding box: (70, 225) (5, 53) (0, 19) 

@@ -1,0 +1,12 @@
+Name:  left_trapezius_muscle
+Label: 53
+    count: 28536
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 3046.06
+    sigma: 13647.9
+    variance: 1.86266e+08
+    sum: 8.69223e+07
+    region: index(10, 4, 60) size(95, 75, 39)
+    bounding box: (10, 104) (4, 78) (60, 98) 

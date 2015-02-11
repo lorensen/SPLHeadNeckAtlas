@@ -1,0 +1,12 @@
+Name:  skull
+Label: 10
+    count: 369950
+    min: 186
+    max: 1996
+    median: 1638.38
+    mean: 681.629
+    sigma: 308.998
+    variance: 95479.7
+    sum: 2.52169e+08
+    region: index(48, 34, 106) size(143, 183, 123)
+    bounding box: (48, 190) (34, 216) (106, 228) 

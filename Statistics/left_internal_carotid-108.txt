@@ -1,0 +1,12 @@
+Name:  left_internal_carotid
+Label: 108
+    count: 1730
+    min: 4
+    max: 65533
+    median: 1638.38
+    mean: 397.382
+    sigma: 2222.81
+    variance: 4.94088e+06
+    sum: 687471
+    region: index(85, 90, 94) size(22, 29, 50)
+    bounding box: (85, 106) (90, 118) (94, 143) 

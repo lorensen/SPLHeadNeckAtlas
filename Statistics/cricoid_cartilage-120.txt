@@ -1,0 +1,12 @@
+Name:  cricoid_cartilage
+Label: 120
+    count: 1976
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 2409.42
+    sigma: 12095.9
+    variance: 1.46312e+08
+    sum: 4.76102e+06
+    region: index(110, 103, 58) size(26, 26, 15)
+    bounding box: (110, 135) (103, 128) (58, 72) 

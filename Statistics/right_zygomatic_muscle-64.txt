@@ -1,0 +1,12 @@
+Name:  right_zygomatic_muscle
+Label: 64
+    count: 1968
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 4412.87
+    sigma: 16318.4
+    variance: 2.6629e+08
+    sum: 8.68452e+06
+    region: index(151, 150, 102) size(14, 15, 21)
+    bounding box: (151, 164) (150, 164) (102, 122) 

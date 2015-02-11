@@ -1,0 +1,12 @@
+Name:  thoracic3
+Label: 23
+    count: 14333
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 2155.98
+    sigma: 10966.2
+    variance: 1.20257e+08
+    sum: 3.09017e+07
+    region: index(87, 0, 21) size(60, 74, 27)
+    bounding box: (87, 146) (0, 73) (21, 47) 

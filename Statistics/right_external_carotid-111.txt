@@ -1,0 +1,12 @@
+Name:  right_external_carotid
+Label: 111
+    count: 716
+    min: 24
+    max: 653
+    median: 1638.38
+    mean: 251.411
+    sigma: 111.016
+    variance: 12324.5
+    sum: 180010
+    region: index(145, 102, 88) size(10, 18, 33)
+    bounding box: (145, 154) (102, 119) (88, 120) 

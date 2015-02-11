@@ -1,0 +1,12 @@
+Name:  thoracic5
+Label: 36
+    count: 13399
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 4124.58
+    sigma: 15475.6
+    variance: 2.39496e+08
+    sum: 5.52653e+07
+    region: index(88, 0, 0) size(55, 58, 21)
+    bounding box: (88, 142) (0, 57) (0, 20) 

@@ -1,0 +1,12 @@
+Name:  right_subclavian_artery
+Label: 103
+    count: 6088
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 696.248
+    sigma: 4998.82
+    variance: 2.49882e+07
+    sum: 4.23876e+06
+    region: index(124, 70, 23) size(121, 40, 33)
+    bounding box: (124, 244) (70, 109) (23, 55) 

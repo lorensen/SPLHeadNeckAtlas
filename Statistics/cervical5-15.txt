@@ -1,0 +1,12 @@
+Name:  cervical5
+Label: 15
+    count: 7915
+    min: 1
+    max: 65533
+    median: 1638.38
+    mean: 522.26
+    sigma: 3436.54
+    variance: 1.18098e+07
+    sum: 4.13368e+06
+    region: index(94, 52, 77) size(59, 52, 16)
+    bounding box: (94, 152) (52, 103) (77, 92) 

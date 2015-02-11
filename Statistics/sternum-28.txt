@@ -1,0 +1,12 @@
+Name:  sternum
+Label: 28
+    count: 15193
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 3074.09
+    sigma: 13389.5
+    variance: 1.79278e+08
+    sum: 4.67047e+07
+    region: index(81, 121, 0) size(76, 36, 34)
+    bounding box: (81, 156) (121, 156) (0, 33) 

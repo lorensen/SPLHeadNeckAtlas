@@ -1,0 +1,12 @@
+Name:  thoracic2
+Label: 22
+    count: 14464
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 1890.7
+    sigma: 10193.7
+    variance: 1.03911e+08
+    sum: 2.7347e+07
+    region: index(85, 10, 32) size(69, 72, 28)
+    bounding box: (85, 153) (10, 81) (32, 59) 

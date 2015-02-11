@@ -1,0 +1,12 @@
+Name:  left_temporalis_muscle
+Label: 51
+    count: 7727
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 4433.72
+    sigma: 16356.7
+    variance: 2.67541e+08
+    sum: 3.42594e+07
+    region: index(53, 146, 128) size(36, 38, 48)
+    bounding box: (53, 88) (146, 183) (128, 175) 

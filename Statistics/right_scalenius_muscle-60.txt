@@ -1,0 +1,12 @@
+Name:  right_scalenius_muscle
+Label: 60
+    count: 1769
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 5558.59
+    sigma: 18185.5
+    variance: 3.30713e+08
+    sum: 9.83315e+06
+    region: index(153, 75, 63) size(20, 14, 23)
+    bounding box: (153, 172) (75, 88) (63, 85) 

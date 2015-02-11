@@ -1,0 +1,12 @@
+Name:  thoracic4
+Label: 24
+    count: 13799
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 2772.41
+    sigma: 12622.8
+    variance: 1.59334e+08
+    sum: 3.82565e+07
+    region: index(88, 0, 9) size(61, 66, 25)
+    bounding box: (88, 148) (0, 65) (9, 33) 

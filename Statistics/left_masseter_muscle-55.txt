@@ -1,0 +1,12 @@
+Name:  left_masseter_muscle
+Label: 55
+    count: 7684
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 2218.77
+    sigma: 11679.6
+    variance: 1.36414e+08
+    sum: 1.70491e+07
+    region: index(67, 123, 100) size(16, 45, 38)
+    bounding box: (67, 82) (123, 167) (100, 137) 

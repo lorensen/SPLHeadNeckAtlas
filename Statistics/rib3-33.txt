@@ -1,0 +1,12 @@
+Name:  rib3
+Label: 33
+    count: 14963
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 1244.25
+    sigma: 7969.51
+    variance: 6.35131e+07
+    sum: 1.86178e+07
+    region: index(8, 29, 0) size(220, 141, 49)
+    bounding box: (8, 227) (29, 169) (0, 48) 

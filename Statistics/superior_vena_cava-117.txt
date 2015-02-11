@@ -1,0 +1,12 @@
+Name:  superior_vena_cava
+Label: 117
+    count: 4775
+    min: 0
+    max: 65534
+    median: 1638.38
+    mean: 2931.45
+    sigma: 12106.9
+    variance: 1.46577e+08
+    sum: 1.39977e+07
+    region: index(126, 90, 0) size(24, 31, 26)
+    bounding box: (126, 149) (90, 120) (0, 25) 

@@ -1,0 +1,12 @@
+Name:  rib2
+Label: 32
+    count: 20647
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 5442.96
+    sigma: 17651.1
+    variance: 3.1156e+08
+    sum: 1.12381e+08
+    region: index(19, 47, 0) size(195, 110, 60)
+    bounding box: (19, 213) (47, 156) (0, 59) 

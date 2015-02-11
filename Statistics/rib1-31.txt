@@ -1,0 +1,12 @@
+Name:  rib1
+Label: 31
+    count: 23274
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 2053.59
+    sigma: 10485.7
+    variance: 1.09949e+08
+    sum: 4.77952e+07
+    region: index(44, 63, 5) size(150, 88, 64)
+    bounding box: (44, 193) (63, 150) (5, 68) 

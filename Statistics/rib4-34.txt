@@ -1,0 +1,12 @@
+Name:  rib4
+Label: 34
+    count: 9241
+    min: 0
+    max: 65534
+    median: 1638.38
+    mean: 1688.15
+    sigma: 9488.76
+    variance: 9.00366e+07
+    sum: 1.56002e+07
+    region: index(13, 16, 0) size(218, 78, 35)
+    bounding box: (13, 230) (16, 93) (0, 34) 

@@ -1,0 +1,12 @@
+Name:  thyroid_cartilage
+Label: 119
+    count: 3959
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 678.308
+    sigma: 5375.53
+    variance: 2.88964e+07
+    sum: 2.68542e+06
+    region: index(104, 104, 66) size(42, 34, 26)
+    bounding box: (104, 145) (104, 137) (66, 91) 

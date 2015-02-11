@@ -1,0 +1,12 @@
+Name:  left_scalenius_muscle
+Label: 59
+    count: 1831
+    min: 0
+    max: 65535
+    median: 1638.38
+    mean: 2942.86
+    sigma: 13463.4
+    variance: 1.81262e+08
+    sum: 5.38837e+06
+    region: index(62, 75, 64) size(28, 15, 22)
+    bounding box: (62, 89) (75, 89) (64, 85) 

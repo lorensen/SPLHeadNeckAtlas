@@ -1,0 +1,12 @@
+Name:  mandible
+Label: 25
+    count: 27626
+    min: 100
+    max: 1744
+    median: 1638.38
+    mean: 785.988
+    sigma: 323.945
+    variance: 104940
+    sum: 2.17137e+07
+    region: index(70, 117, 78) size(106, 66, 65)
+    bounding box: (70, 175) (117, 182) (78, 142) 
