@@ -1,0 +1,15 @@
+AtlasName: SPLHeadNeckAtlas
+VolumeFileName: @SPLHeadNeckAtlas_SOURCE_DIR@/Atlas/Osirix-Manix-255-res.nrrd
+LabelFileName: @SPLHeadNeckAtlas_SOURCE_DIR@/Atlas/HN-Atlas-labels.nrrd
+ColorTableFileName: @SPLHeadNeckAtlas_SOURCE_DIR@/Atlas/HeadAndNeckAtlas-training-colors.txt.ctbl
+AdjacenciesFileName: @SPLHeadNeckAtlas_SOURCE_DIR@/Models/adjacencies.txt
+ModelsDirectory: @SPLHeadNeckAtlas_SOURCE_DIR@/Models
+VTKDirectory: @SPLHeadNeckAtlas_SOURCE_DIR@/Models/VTK
+STLDirectory: @SPLHeadNeckAtlas_SOURCE_DIR@/Models/STL
+ScreenshotDirectory: @SPLHeadNeckAtlas_SOURCE_DIR@/Models/Screenshot
+ChangesDirectory: @SPLHeadNeckAtlas_SOURCE_DIR@/Changes
+StatisticsDirectory: @SPLHeadNeckAtlas_SOURCE_DIR@/Statistics
+MRMLDirectory: @SPLHeadNeckAtlas_BINARY_DIR@/MRML
+GitDirectory: @SPLHeadNeckAtlas_SOURCE_DIR@
+FiducialsDirectory: @SPLHeadNeckAtlas_BINARY_DIR@/Fiducials
+
