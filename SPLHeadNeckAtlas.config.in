@@ -12,4 +12,6 @@ StatisticsDirectory: @SPLHeadNeckAtlas_SOURCE_DIR@/Statistics
 MRMLDirectory: @SPLHeadNeckAtlas_BINARY_DIR@/MRML
 GitDirectory: @SPLHeadNeckAtlas_SOURCE_DIR@
 FiducialsDirectory: @SPLHeadNeckAtlas_BINARY_DIR@/Fiducials
+GitURL: https://github.com/lorensen/SPLHeadNeckAtlas
+GitWikiDirectory: @SPLHeadNeckAtlas_SOURCE_DIR@/wiki
 
