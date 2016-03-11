@@ -1,12 +1,12 @@
 Name:  cervical7
 Label: 17
-    count: 11013
+    count: 11009
     min: 0
     max: 65535
     median: 1638.38
-    mean: 587.037
-    sigma: 4299.25
-    variance: 1.84836e+07
-    sum: 6.46504e+06
+    mean: 587.217
+    sigma: 4300.02
+    variance: 1.84902e+07
+    sum: 6.46467e+06
     region: index(87, 39, 55) size(68, 60, 22)
     bounding box: (87, 154) (39, 98) (55, 76) 
