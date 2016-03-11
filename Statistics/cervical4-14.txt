@@ -1,12 +1,12 @@
 Name:  cervical4
 Label: 14
-    count: 8328
+    count: 8324
     min: 0
     max: 65535
     median: 1638.38
-    mean: 816.819
-    sigma: 5374.98
-    variance: 2.88904e+07
-    sum: 6.80247e+06
+    mean: 817.196
+    sigma: 5376.24
+    variance: 2.8904e+07
+    sum: 6.80234e+06
     region: index(96, 57, 86) size(57, 48, 17)
     bounding box: (96, 152) (57, 104) (86, 102) 

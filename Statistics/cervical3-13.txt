@@ -1,12 +1,12 @@
 Name:  cervical3
 Label: 13
-    count: 8875
+    count: 8871
     min: 0
     max: 65535
     median: 1638.38
-    mean: 806.517
-    sigma: 5430.89
-    variance: 2.94946e+07
-    sum: 7.15784e+06
+    mean: 806.767
+    sigma: 5432.1
+    variance: 2.95077e+07
+    sum: 7.15683e+06
     region: index(97, 58, 96) size(57, 48, 15)
     bounding box: (97, 153) (58, 105) (96, 110) 

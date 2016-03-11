@@ -1,12 +1,12 @@
 Name:  left_vertebral_artery
 Label: 106
-    count: 2331
+    count: 2346
     min: 1
     max: 65532
     median: 1638.38
-    mean: 687.785
-    sigma: 5391.46
-    variance: 2.90678e+07
-    sum: 1.60323e+06
+    mean: 684.072
+    sigma: 5374.39
+    variance: 2.88841e+07
+    sum: 1.60483e+06
     region: index(90, 80, 51) size(30, 36, 98)
     bounding box: (90, 119) (80, 115) (51, 148) 

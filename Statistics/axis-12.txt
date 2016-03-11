@@ -1,12 +1,12 @@
 Name:  axis
 Label: 12
-    count: 14328
+    count: 14331
     min: 0
     max: 65535
     median: 1638.38
-    mean: 469.691
-    sigma: 2727.83
-    variance: 7.44103e+06
-    sum: 6.72973e+06
+    mean: 469.62
+    sigma: 2727.54
+    variance: 7.4395e+06
+    sum: 6.73012e+06
     region: index(97, 57, 106) size(59, 53, 31)
     bounding box: (97, 155) (57, 109) (106, 136) 

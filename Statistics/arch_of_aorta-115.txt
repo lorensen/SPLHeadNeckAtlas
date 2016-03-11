@@ -1,12 +1,12 @@
 Name:  arch_of_aorta
 Label: 115
-    count: 34979
+    count: 34978
     min: 0
     max: 65535
     median: 1638.38
-    mean: 391.067
-    sigma: 1971.5
-    variance: 3.88681e+06
-    sum: 1.36791e+07
+    mean: 391.076
+    sigma: 1971.53
+    variance: 3.88692e+06
+    sum: 1.3679e+07
     region: index(78, 40, 0) size(57, 94, 22)
     bounding box: (78, 134) (40, 133) (0, 21) 
