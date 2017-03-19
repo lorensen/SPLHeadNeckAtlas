@@ -14,4 +14,5 @@ GitDirectory: @SPLHeadNeckAtlas_SOURCE_DIR@
 FiducialsDirectory: @SPLHeadNeckAtlas_BINARY_DIR@/Fiducials
 GitURL: https://github.com/lorensen/SPLHeadNeckAtlas
 GitWikiDirectory: @SPLHeadNeckAtlas_SOURCE_DIR@/wiki
+WikipediaUrls: @SPLHeadNeckAtlas_SOURCE_DIR@/Atlas/SPLHeadNeckAtlasWikipedia.txt
 
