@@ -3,7 +3,7 @@ Label: 55
     count: 7684
     min: 0
     max: 65535
-    median: 1638.38
+    median: 127.998
     mean: 2218.77
     sigma: 11679.6
     variance: 1.36414e+08

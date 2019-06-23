@@ -3,7 +3,7 @@ Label: 101
     count: 5032
     min: 1
     max: 65527
-    median: 1638.38
+    median: 383.994
     mean: 352.21
     sigma: 1306.57
     variance: 1.70712e+06

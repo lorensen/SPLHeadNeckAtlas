@@ -3,7 +3,7 @@ Label: 14
     count: 8324
     min: 0
     max: 65535
-    median: 1638.38
+    median: 383.994
     mean: 817.196
     sigma: 5376.24
     variance: 2.8904e+07
